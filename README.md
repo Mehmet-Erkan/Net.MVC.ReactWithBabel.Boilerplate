@@ -13,6 +13,7 @@
 > Make shure you have "babel-loader": "^7.1.5", instead of 8 by default.
 
 ## Create webpack.config.js file
+Webpack is simply a module bundler. While it can bundle almost any resource or asset, it is most commonly used to bundle JavaScript files for use in a browser, in this case it will be bundling or .tsx and .ts files into .js so it can be served
 
 ```JavaScript
 "use strict";
