@@ -7,8 +7,10 @@
 ## Create a react folder inside the script folder
 
 - `npm init`
-- `npm install --save react react-dom`
-- `npm install --save-dev babel-core babel-loader webpack babel-preset-env babel-preset-react`
+- `npm install webpack webpack-cli --save-dev`
+- `npm install react react-dom --save`
+- `npm install typescript --save-dev`
+- `npm install @babel/core babel-loader  @babel/preset-react @babel/preset-typescript  @babel/plugin-proposal-class-properties  @babel/plugin-proposal-object-rest-spread --save-dev`
 
 > Make shure you have "babel-loader": "^7.1.5", instead of 8 by default.
 
