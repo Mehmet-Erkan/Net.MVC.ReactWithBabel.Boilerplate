@@ -2,7 +2,8 @@
 
 ### References
 - [Video Tutorial React and Babel](https://www.youtube.com/watch?v=bnFgGYooDCM)
-- [Tutorial Babel und TypeScript](https://medium.com/@francesco.agnoletto/how-to-set-up-typescript-with-babel-and-webpack-6fba1b6e72d5)
+- [Tutorial Babel and TypeScript](https://medium.com/@francesco.agnoletto/how-to-set-up-typescript-with-babel-and-webpack-6fba1b6e72d5)
+- [Tutorial Babel, Webpack and Typescript)[https://medium.com/@dahvinchee/how-to-set-up-a-react-typescript-project-from-scratch-with-babel-and-webpack-6b069881229d]
 
 ## Create a react folder inside the script folder
 
