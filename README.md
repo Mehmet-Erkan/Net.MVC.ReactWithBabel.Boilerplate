@@ -19,7 +19,8 @@
 - optional `npm install webpack-dev-server --save-dev`
 - optional `npm install tslint tslint-immutable --save-dev`
 
-
+Types
+- `npm install @types/react @types/react-dom`
 
 
 ## Create webpack.config.js file
